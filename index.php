@@ -10,6 +10,6 @@ $message = "Hello, World!";
 </head>
 <body>
     <h1><?php echo htmlspecialchars($message); ?></h1>
-    <p>This is dummy PHP code.</p>
+    <p>This my PHP code.</p>
 </body>
 </html>
